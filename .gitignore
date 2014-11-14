@@ -1,3 +1,4 @@
 paper/*
-!data/*.conf
+!data/
 data/*
+!data/*.conf
