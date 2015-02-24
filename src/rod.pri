@@ -8,7 +8,7 @@ SOURCES += \
     $$PWD/pbd_elastic_rod.cpp \
     $$PWD/simulator.cpp \
     $$PWD/elastic_rod_shape.cpp \
-    $PWD/frame_attachment.cpp
+    $$PWD/frame_attachment.cpp
 
 HEADERS  += \
     $$PWD/main_window.h \
